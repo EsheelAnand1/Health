@@ -1,0 +1,8 @@
+C:\Users\Esh\desktop\health\bin\Debug\netcoreapp1.1\health.deps.json
+C:\Users\Esh\desktop\health\bin\Debug\netcoreapp1.1\health.runtimeconfig.json
+C:\Users\Esh\desktop\health\bin\Debug\netcoreapp1.1\health.runtimeconfig.dev.json
+C:\Users\Esh\desktop\health\bin\Debug\netcoreapp1.1\health.dll
+C:\Users\Esh\desktop\health\bin\Debug\netcoreapp1.1\health.pdb
+C:\Users\Esh\desktop\health\obj\Debug\netcoreapp1.1\health.AssemblyInfo.cs
+C:\Users\Esh\desktop\health\obj\Debug\netcoreapp1.1\health.dll
+C:\Users\Esh\desktop\health\obj\Debug\netcoreapp1.1\health.pdb
